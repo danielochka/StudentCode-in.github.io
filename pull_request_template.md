@@ -1,7 +1,7 @@
 # Description
 
-Search Bar in Webinar page
-Issue #76
+Created Search Bar in Webinar page, edited css file style1.css and added function on main.js
+Fixes #76
 
 ## Type of change
 
@@ -13,7 +13,9 @@ Please delete options that are not relevant.
 
 # How Has This Been Tested?
 
-I haven't done any test yet. I just tried, if the Search Bar works.
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+
+Manually tested. Search Bar is working.
 
 # Checklist:
 
