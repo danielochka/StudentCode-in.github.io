@@ -169,7 +169,7 @@
     }
   });
 
-  //Search Bar on Webinar
+  //Search Bar in Webinar
   $(document).ready(function () {
     $("#txtSearch").on("keyup", function () {
       var value = $(this).val().toLowerCase();
@@ -180,6 +180,7 @@
           });
     });
   });
+
 
   // Filter cards by search input
   $(document).ready(function () {
@@ -193,5 +194,4 @@
     });
   });
 })(jQuery);
-
 
